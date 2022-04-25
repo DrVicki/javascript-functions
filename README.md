@@ -56,7 +56,7 @@ function functionName(parameter1, parameter2, parameter3) {
     // Code to be executed
 }
 ```
-The ```displaySum()``` function in the following example takes two numbers as arguments, simply s them together and then displays the result in the browser.
+The ```displaySum()``` function in the following example takes two numbers as arguments, simply adds them together and then displays the result in the browser.
 
 ```
 // Defining function
