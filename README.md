@@ -230,18 +230,4 @@ greetWorld();  // Outputs: Hello World!
 alert(greet); // Outputs: Hello World!
 ```
 
-Try it yourself!
-
-```
-<script>
-myFunction = function(){
-alert("Hello, what are you doing?");
-}
-
-</script>
-
-<button onclick=" myFunction()" >nosey button
-</button><ul><li>Write a new function in the script tag</li>
-<li>put the new function in the <b>onclick</b> handler</li></ul>
-```
-[View Solution Here](https://FunctionTryIt1.drvicki.repl.co)
+## Now mosey over to the "Get Your Hands on the Code" Page to practice!!
